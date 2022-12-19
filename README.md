@@ -3,7 +3,7 @@
  HOW TO RUN A PROJECT
  
  1. npm i
- 2.npx react-native start
+ 2. npx react-native start
  3. npm run android
  
  How to login

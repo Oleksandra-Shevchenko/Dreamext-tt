@@ -5,7 +5,6 @@ import {Posts} from '../types/posts';
 import {Loader} from '../loader/loader';
 import {PostComponent} from '../components/postComponent';
 import Snackbar from 'react-native-snackbar';
-import NetInfo from '@react-native-community/netinfo';
 
 interface HomeNavigationProps {
   navigation: any;

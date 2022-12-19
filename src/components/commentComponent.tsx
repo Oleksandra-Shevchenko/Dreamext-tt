@@ -1,4 +1,4 @@
-import {Comments} from '../api/comments';
+import {Comments} from '../types/comments';
 import {StyleSheet, Text, View} from 'react-native';
 
 export const CommentComponent = (comment: Comments) => {

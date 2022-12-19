@@ -9,7 +9,7 @@
  How to login
  
  You can choose between 2 users
- 1. login: sasha@gmeil.com
+ 1. login: sasha@gmail.com
     password: Qwe123321
     
  2. login: dima@gmail.com
